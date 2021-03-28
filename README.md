@@ -1,5 +1,5 @@
 # react-admin
-- 预览地址: [http://112.74.49.54/](http://112.74.49.54/)
+- 预览地址: [http://112.74.49.54/admin](http://112.74.49.54/admin)
 - 默认管理员账号密码都为admin
 ## 技术栈
 - 基于 `react` + `redux` + `react-redux` + `redux-thunk` + `redux-devtools-extends` + `react-router` + `axios` + `antd`练习的一个后台管理应用
