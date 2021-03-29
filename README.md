@@ -11,5 +11,6 @@
 ## 未来计划
 - 仿造优秀的后台管理项目进行完善功能
   - 如: https://panjiachen.github.io/vue-element-admin/#/i18n/index
+  - https://juejin.cn/post/6844904053953019911
 - 通过Node.js完成改后台应用的后端部分代码
 - 可以不使用UI组件库，来重构项目
